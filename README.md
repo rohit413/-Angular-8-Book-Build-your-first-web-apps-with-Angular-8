@@ -20,4 +20,10 @@
     Status
     Help
 
-Contact Gi
+Step 3 — Creating UI Components
+
+  $ cd ~/angular-example  
+  $ ng g component home
+  
+ Step 4 — Adding Angular Material
+   $ ng add @angular/material
